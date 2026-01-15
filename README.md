@@ -2,3 +2,4 @@
 Features 
 - Feature 1 
 - Feature 2 
+GitHub is great 
